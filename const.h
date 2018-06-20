@@ -10,6 +10,7 @@ typedef double Coord;
 typedef std::vector<double> Coord_V;
 typedef std::vector<Coord_V> Coord_VV;
 
+const double MAXDIST = 20;
 
 const size_t DIM = 2;
 const double EPS = 1e-9;
